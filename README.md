@@ -11,7 +11,7 @@ Retraining a SegFormer with a branch that generates query and key embeddings fro
 * CityScapes dataset follows a dataset structure as follows:
 
 ~~~text
-city_scape/
+CityScapes/
 ├── annotation
 │   └── city_gt_fine
 │       ├── train
