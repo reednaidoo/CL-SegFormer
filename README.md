@@ -7,6 +7,7 @@ Retraining a SegFormer with a branch that generates query and key embeddings fro
 
 * CityScapes dataset follows a dataset structure as follows:
 
+~~~text
 city_scape/
 ├── annotation
 │   └── city_gt_fine
@@ -16,6 +17,14 @@ city_scape/
     └── city_gt_fine
         ├── train
         └── val
+~~~
 
-The authors of this work would like to give significant thanks to the authors of SegFormer (https://arxiv.org/abs/2105.15203), and the authors of PEBAL (https://arxiv.org/pdf/2111.12264.pdf)
+The authors of this work would like to give significant thanks to the authors of 
+* SegFormer, (Xie, E., Wang, W., Yu, Z., Anandkumar, A., Álvarez, J.M. and Luo, P., 2021. Segformer:
+Simple and eﬃcient design for semantic segmentation with transformers. Corr [Online],
+abs/2105.15203. 2105.15203, Available from: https://arxiv.org/abs/2105.15203.)
+* and the authors of PEBAL, (Tian, Y., Liu, Y., Pang, G., Liu, F., Chen, Y. and Carneiro, G., 2021. Pixel-wise
+energy-biased abstention learning for anomaly segmentation on complex urban driving
+scenes. Corr [Online], abs/2111.12264. 2111.12264, Available from: https://arxiv.
+org/abs/2111.12264)
   
