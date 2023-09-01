@@ -26,8 +26,11 @@ The authors of this work would like to give significant thanks to the authors of
 * SegFormer, (Xie, E., Wang, W., Yu, Z., Anandkumar, A., Álvarez, J.M. and Luo, P., 2021. Segformer:
 Simple and eﬃcient design for semantic segmentation with transformers. Corr [Online],
 abs/2105.15203. 2105.15203, Available from: https://arxiv.org/abs/2105.15203.)
-* and the authors of PEBAL, (Tian, Y., Liu, Y., Pang, G., Liu, F., Chen, Y. and Carneiro, G., 2021. Pixel-wise
+* PEBAL, (Tian, Y., Liu, Y., Pang, G., Liu, F., Chen, Y. and Carneiro, G., 2021. Pixel-wise
 energy-biased abstention learning for anomaly segmentation on complex urban driving
 scenes. Corr [Online], abs/2111.12264. 2111.12264, Available from: https://arxiv.
 org/abs/2111.12264)
+* Wang, H., Lu, Y. and Chen, X., 2023. Contrastive vision transformer for self-supervised
+out-of-distribution detection [Online]. Available from: https://openreview.net/
+forum?id=UAmH4nDH4l.
   
