@@ -8,7 +8,7 @@ Retraining a SegFormer with a branch that generates query and key embeddings fro
 
 * Be sure to adjust all root directories in the scripts. 
 
-* CityScapes dataset follows a dataset structure as follows:
+* CityScapes dataset dataset directory is structured as follows:
 
 ~~~text
 CityScapes/
